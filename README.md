@@ -4,16 +4,12 @@
 
   <!-- Animated Typing SVG Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=F43F5E&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%F0%9F%8D%93;AI+%26+Deep+Learning+Enthusiast+%F0%9F%A4%96;PyTorch+%7C+Python+%7C+Web+Developer+%F0%9F%92%BB;Welcome+to+my+GitHub+Profile!+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=F43F5E&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%F0%9F%8D%93;3rd+Year+%40+Karadeniz+Technical+University+%F0%9F%8F%EB;100%25+English+Software+Engineering+%F0%9F%8C%90;AI+%26+Deep+Learning+Enthusiast+%F0%9F%A4%96;PyTorch+%7C+Python+%7C+Web+Developer+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>Computer Engineering Student</b> passionate about <b>Artificial Intelligence</b>, <b>Deep Learning</b>, and <b>Modern Web Development</b>.
-  </p>
-
-  <p align="center">
-    <a href="https://microsoft-deepstock-predictor-1lr4.vercel.app/">🌐 Live Project Demo</a> •
-    <a href="https://github.com/silakan08/microsoft-deepstock-predictor">⭐ Featured Project</a>
+    <b>3rd Year Software Engineering Student</b> at <b>Karadeniz Technical University (100% English)</b>.<br/>
+    Passionate about <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Software Engineering</b>.
   </p>
 
 </div>
@@ -22,11 +18,11 @@
 
 ### 🌟 About Me
 
-- 🎓 **Education:** Computer Engineering Student
-- 🤖 **Current Focus:** Time-Series Forecasting, Recurrent Neural Networks (LSTM & GRU), PyTorch, and Explainable AI (XAI)
-- 🚀 **Latest Project:** [DeepStock Predictor](https://github.com/silakan08/microsoft-deepstock-predictor) — PyTorch Stock Forecasting Engine developed for Microsoft Voluntary Internship
-- 💡 **Passionate About:** Building clean, aesthetic user interfaces paired with powerful AI/ML backend systems
-- 📫 **Contact:** Open for collaboration on AI & Software Engineering projects
+- 🎓 **Education:** Software Engineering Student (3rd Year, 100% English Medium)
+- 🏫 **University:** Karadeniz Technical University (KTÜ)
+- 🤖 **Focus Areas:** Machine Learning, Deep Learning, Data Science & Web Applications
+- 💻 **Core Tech:** Python, PyTorch, C, C++, Java, JavaScript, HTML5/CSS3
+- 💡 **Goal:** Developing high-performance software systems and AI-powered solutions
 
 ---
 
@@ -61,31 +57,6 @@
 
 ---
 
-### 📈 GitHub Analytics & Stats
-
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=silakan08&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sıla Kan's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silakan08&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silakan08&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="98%" />
-
-</div>
-
----
-
-### ⭐ Featured Project
-
-> 🚀 **[DeepStock Predictor](https://github.com/silakan08/microsoft-deepstock-predictor)**  
-> *A PyTorch-based Time-Series Forecasting platform developed for Microsoft Voluntary Internship evaluation.*  
-> - **Models:** LSTM vs. GRU comparison with 18% lower RMSE error margin.
-> - **Web Dashboard:** [Live Vercel Web App](https://microsoft-deepstock-predictor-1lr4.vercel.app/) with Backtesting simulation and EN/TR bilingual support.
-> - **Ethics:** Incorporates Princeton University's *"AI Snake Oil"* critical perspective on market randomness and 1-day lag correlation.
-
----
-
-<div align="center">
-  <sub>Designed with ✨ by Sıla Kan</sub>
+  <sub>Sıla Kan • Karadeniz Technical University</sub>
 </div>
