@@ -18,7 +18,7 @@
 
 ### 🌟 About Me
 
-- 🎓 **Education:** Software Engineering Student (3rd Year, 100% English Medium)
+- 🎓 **Education:** Software Engineering Student (3rd Year, 100% English)
 - 🏫 **University:** Karadeniz Technical University (KTÜ)
 - 🤖 **Focus Areas:** Machine Learning, Deep Learning, Data Science & Web Applications
 - 💻 **Core Tech:** Python, PyTorch, C, C++, Java, JavaScript, HTML5/CSS3
